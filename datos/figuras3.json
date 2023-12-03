@@ -1,0 +1,23 @@
+[
+    {
+      "id": 7,
+      "marca": "Star Wars",
+      "nombre": "Luke Skywalker",
+      "precio": 100,
+      "stock": 20
+    },
+    {
+      "id": 8,
+      "marca": "Star Wars",
+      "nombre": "Anakin Skywalker",
+      "precio": 50,
+      "stock": 15
+    },
+    {
+      "id": 9,
+      "marca": "Star Wars",
+      "nombre": "Obi-wan Kenobi",
+      "precio": 200,
+      "stock": 10
+    }
+  ]
